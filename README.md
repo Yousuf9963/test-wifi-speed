@@ -11,5 +11,8 @@ When checking the speed of the Internet connection, the results are displayed as
 pkg update && pkg upgrade -y
 pkg install git
 pkg install python3
-git clone 
+git clone https://github.com/Yousuf9963/test-wifi-speed.git
+cd test-wifi-speed
+python3 test-wifi-speed.py
 
+# Thank you ....
